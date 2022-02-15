@@ -430,7 +430,7 @@ if (reversed == null) { reversed = false; }
 
 	// Welcoming
 	this.instance_5 = new lib.Welcomingline();
-	this.instance_5.setTransform(388.9,196.1,1,1,0,0,0,99.5,1.2);
+	this.instance_5.setTransform(386.9,196.1,1,1,0,0,0,99.5,1.2);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_5).wait(161));
 
@@ -492,7 +492,7 @@ lib.properties = {
 	color: "#333333",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/OPT413_Display_Assefa_300x250_atlas_P_1.png?1644947950179", id:"OPT413_Display_Assefa_300x250_atlas_P_1"}
+		{src:"images/OPT413_Display_Assefa_300x250_atlas_P_1.png?1644948536300", id:"OPT413_Display_Assefa_300x250_atlas_P_1"}
 	],
 	preloads: []
 };
